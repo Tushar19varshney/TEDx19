@@ -58,6 +58,7 @@
     text-align: center;
     color: #ee3322;
     margin-top: 5rem;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 600px) {
