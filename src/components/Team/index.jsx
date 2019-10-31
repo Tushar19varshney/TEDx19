@@ -24,6 +24,12 @@ import Image16 from "../Team/src/images/Utkarsh.jpg";
 import Image17 from "../Team/src/images/prasang.jpeg";
 import Image18 from "../Team/src/images/korkoo.jpeg";
 import Image19 from "../Team/src/images/arnav.jpeg";
+import Image20 from "../Team/src/images/prakhar.jpg";
+
+import Image21 from "../Team/src/images/rahul.jpeg";
+
+import Image22 from "../Team/src/images/prateek.jpeg";
+
 
 
 
@@ -60,8 +66,11 @@ export default class TeamIndex extends Component {
                         <Member className="member-list-child" name="RAGHUVANSH RAWAT" image={Image12} position="Head of Operations" quote="You didn't come this far to only come this far."/>
                         <Member className="member-list-child" name="AKASH RAJ" image={Image2} position="Head of PR and Marketing" quote="Somebody toucha my Spaghet"/>
                         <Member className="member-list-child" name="KUMAR PRASANG" image={Image17} position="Head of Design" quote="Great Design is a Multilayered relationship between Human Life and its environment!"/>
+                        <Member className="member-list-child" name="PRAKHAR AGARWAL" image={Image20} position="Head of Development" quote="Be who you are & say what you feel, because those who mind don't matter, and those who matter don't mind."/>
                         <Member className="member-list-child" name="ATUL KORKOO" image={Image18} position="Senior Manager Design" quote="Design is the thin layer that connects complexity to meaning"/>
                         <Member className="member-list-child" name="ARNAV CHAND" image={Image19} position="Manager Design" quote="Why? and What? is important, not How?"/>
+                        <Member className="member-list-child" name="PRATEEK TRIPATHI" image={Image22} position="Manager Development" quote="In three words I can sum up everything I've learned about life: it goes on."/>
+                        <Member className="member-list-child" name="RAHUL JAIN" image={Image21} position="Manager Development" quote="You only live once, but if you do it right, once is enough."/>
                         <Member className="member-list-child" name="SUDHIR BALAKRISHNAN" image={Image15} position="Senior Manager" quote="I was once thrown to the wolves. Now I lead the pack."/>
                         {/* <Member className="member-list-child" name="SAI VARUN MULA"  image={Image1} position="Executive Admin-Relations" quote=""/> */}
                         <Member className="member-list-child" name="UTKARSH MATHUR" image={Image16} position="Manager" quote="Whatever is the problem, see it off with a great smile."/>
